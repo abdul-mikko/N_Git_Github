@@ -1,0 +1,5 @@
+1. git --version
+2. git config --global user.name Adil
+3. git congif --gloabl user.email aka.dmv@gmail.com
+4. cd .. / cd dir / ls / dir /mkdir dir / touch file / code filename / rm filr / rmdir dir.
+5. 
