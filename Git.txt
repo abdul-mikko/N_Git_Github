@@ -2,4 +2,19 @@
 2. git config --global user.name Adil
 3. git congif --gloabl user.email aka.dmv@gmail.com
 4. cd .. / cd dir / ls / dir /mkdir dir / touch file / code filename / rm filr / rmdir dir.
-5. 
+5. Modified / Staged / commit
+6. git add . / git rm --cached / git commit -m"message" / git log --online /  
+7. git checkout <SHA> then checkout master.
+8. git revert <SHA>, enter edit screen and type <:wq>
+9. git reset <SHA>  --hard(delete all commits)
+10. git branch <name> / git checkout -b name / git branch -a / git branch -D <branch>
+11.  Checkout branch / git merge <branch> / fast-forward - recursive method of merge
+12. git conflict resolve and make a new commit.
+13. Local to remote: create repo online and don't initilise with readme, copy link, / git push URL master
+        a. git remote add origin https://github.com/abdul-mikko/N_Git_Github.git
+        b. git push -u origin master
+14. git remote add origin URL (alias) / git push origin master.
+15. remote to local: git clone URL / git remote -v / git push remote master.
+16. git push orgin Branch.( work on new branch and push)
+17. git pull origin master.
+18. Forking : First fork into your remote and clone into local and create branch and push to remote and pull request. 
